@@ -7,3 +7,9 @@ streamlit
 pandas
 matplotlib
 scikit-learn
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
